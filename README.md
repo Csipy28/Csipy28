@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Csipy28
 - 👀 I’m interested in Cypress
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on cutting-edge projects
 - 📫 How to reach me ... just call me :)
 
